@@ -1,0 +1,264 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.angel.com" resolutions="1x" timestamp="1634741782638">
+  <folder name="css">
+    <file name="site_global.css" crc="255844466"/>
+    <file name="contact.css" crc="3994917744" ref="contact"/>
+    <file name="library.css" crc="4135580570" ref="library"/>
+    <file name="gallery.css" crc="4006614399" ref="gallery"/>
+    <file name="hostel.css" crc="405865455" ref="hostel"/>
+    <file name="online-admission.css" crc="4127277352" ref="online-admission"/>
+    <file name="doubt-clearing-class.css" crc="460203888" ref="doubt-clearing-class"/>
+    <file name="index.css" crc="3823339704" ref="index"/>
+    <file name="curricular-activity.css" crc="4022325036" ref="curricular-activity"/>
+    <file name="facilities.css" crc="44767956" ref="facilities"/>
+  </folder>
+  <folder name="assets">
+    <file name="chse-science-revised-syllabus-20-21.pdf" crc="310375928" seo="true" mt="1617367982000"/>
+    <file name="chse-commerce-revised-syllabus-20-21.pdf" crc="418885500" seo="true" mt="1617367985000"/>
+    <file name="chse-arts-revised-syllabus-20-21.pdf" crc="499824861" seo="true" mt="1617367988000"/>
+    <file name="hostel-admission-form.docx" crc="214961065" seo="true" mt="1617111452000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="museutils.js" crc="3939489907" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="whatinput.js" crc="86476730" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="webpro.js" crc="3856315280" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="require.js" crc="4177726516" ref="index:curricular-activity:facilities:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+  </folder>
+  <folder name="images">
+    <file name="ingel.jpg" crc="4029851018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:gallery:contact"/>
+    <file name="wecvvv.jpg" crc="310075749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4) st xaiver high school(12x10 1nhhdfr.jpg" crc="4082615383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="7x2,5fgtt.jpg" crc="4079953964" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="twitter.png" crc="360874920" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="facebook-u3155-fr.png" crc="4121643081" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="facebook.png" crc="4172500667" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="instagram-u3154-fr.png" crc="396326160" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission"/>
+    <file name="instagram.png" crc="4255375930" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="4) st xaiver high school(12x10 1nhhdfr-u781-fr.jpg" crc="116225529" ref="index"/>
+    <file name="wweerr.jpg" crc="43496377" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7x2,5dfre.png" crc="500032432" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="angel tutorial residance gopalpuir bls.jpg" crc="463028286" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitleddfgtr.jpg" crc="41983915" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sr tutiorial - copy - copy.jpg" crc="3864522914" ref="index:curricular-activity">
+      <caption webpage="index" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="cv fv f.jpg" crc="187291749" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yjjkk-u8567-fr.jpg" crc="3788203351" ref="index"/>
+    <file name="dfef-u8559-fr.jpg" crc="4053244142" ref="index"/>
+    <file name="fgtryh.png" crc="148051165" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook2.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter2.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index:curricular-activity:gallery:contact:hostel:library:doubt-clearing-class:online-admission">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="curricular-activity" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="online-admission" alt=""/>
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="33046-5-students-learning-transparent-image.png" crc="59970895" ref="curricular-activity:online-admission">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="1a68e277.jpg" crc="519368492" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="coaching.jpg" crc="155084078" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="medical.jpg" crc="455997227" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="iit.jpg" crc="487000512" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="7x2,5dfre-u4720-fr.png" crc="3924126825" ref="curricular-activity"/>
+    <file name="6k6kk.jpg" crc="46617848" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="deffd.jpg" crc="159122940" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="wdwdf.jpg" crc="521165875" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="refft.jpg" crc="38738263" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="yjjkk.jpg" crc="3935230457" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="tyjykj.jpg" crc="4152841556" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="dfef.jpg" crc="4211762490" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="tyjkk.jpg" crc="422295417" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="myu,,.jpg" crc="3941703863" ref="curricular-activity">
+      <caption webpage="curricular-activity" alt=""/>
+    </file>
+    <file name="gettyimages-577674005-e1591100488177.jpg" crc="4135293727" seo="true" ref="gallery:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="many-old-books-stac.jpg" crc="4268582529" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hjg.jpg" crc="515514954" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ddse.jpg" crc="4293695006" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="iuyt.jpg" crc="4271745872" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dsff.jpg" crc="3950537338" ref="gallery:hostel">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="img_20210411_191656.jpg" crc="4179314963" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="img_20210411_191722-u3664-fr.jpg" crc="4222445151" ref="gallery"/>
+    <file name="gree.jpg" crc="4122475368" ref="hostel:library:doubt-clearing-class">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="34071-8-students-learning.png" crc="3988101107" ref="hostel:library:doubt-clearing-class">
+      <caption webpage="doubt-clearing-class" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="img_20210411_191722.jpg" crc="279209189" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="img_20210411_191749.jpg" crc="4077498676" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="qqqq.jpg" crc="4124437161" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="lib-2-u6619-fr.jpg" crc="4020484947" ref="library"/>
+    <file name="doubt clearing.jpg" crc="190688658" ref="doubt-clearing-class">
+      <caption webpage="doubt-clearing-class" alt=""/>
+    </file>
+    <file name="360_f_60942587_v6emkquitj3pxptnhtfevslwe5oq0bwm.jpg" crc="155153485" ref="doubt-clearing-class">
+      <caption webpage="doubt-clearing-class" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="287252504" seo="true" mt="1634741773103" redirect="true"/>
+  <file name="curricular-activity.html" crc="4294131832" seo="true" mt="1634741772782" redirect="true"/>
+  <file name="facilities.html" crc="343939425" seo="true" mt="1634480515994" redirect="false"/>
+  <file name="gallery.html" crc="3952400908" seo="true" mt="1634496911250" redirect="true"/>
+  <file name="contact.html" crc="469088082" seo="true" mt="1634494167029" redirect="true"/>
+  <file name="hostel.html" crc="387110089" seo="true" mt="1634497112191" redirect="true"/>
+  <file name="library.html" crc="4024518611" seo="true" mt="1634497420561" redirect="true"/>
+  <file name="doubt-clearing-class.html" crc="528921077" seo="true" mt="1634736146947" redirect="true"/>
+  <file name="online-admission.html" crc="192966003" seo="true" mt="1634501729348" redirect="true"/>
+</manifest>
